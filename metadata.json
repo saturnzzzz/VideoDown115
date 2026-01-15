@@ -1,0 +1,5 @@
+{
+  "name": "VideoBatch Pro",
+  "description": "A professional tool for parsing submission data and batch downloading videos with custom renaming patterns (Student ID + Name).",
+  "requestFramePermissions": []
+}
